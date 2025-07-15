@@ -7,7 +7,7 @@ This is the official location for the ICASA Data Dictionary (IDD), which was pre
 5. Measurements - Variables used to describe crop or soil properties. These are grouped as summary, time series, and time series by soil layer. Summary includes dates of key development events (i.e., phenology), crop yield, yield components, and various summary growth or nutrient descriptors.
 Additional sections describe codes used to simplify coding for different crops, agronomic inputs, application methods, etc.
 
-Although the IDD was developed largely by researchers using crop simulation models, we emphasize that the IDD is a generic dictionary for agronomic research (Hunt et al., ). Many variables are included because they can help researchers understand how a given experiment was conducted or how the data can best be interpreted. This goal of generality is aligned with the increasing expectation that research datasets be made available in readily re-usable formats (White et al., 2025).
+Although the IDD was developed largely by researchers using crop simulation models, we emphasize that the IDD is a generic dictionary for agronomic research (Hunt et al., 2001). Many variables are included because they can help researchers understand how a given experiment was conducted or how the data can best be interpreted. This goal of generality is aligned with the increasing expectation that research datasets be made available in readily re-usable formats (White et al., 2025).
 
 The IDD is accesible here in two formats:
 1. XLSX - This is the full dictionary with all worksheets. The GitHub interface does not allow viewing the file contents, so if you want to use the workbook, you have to download to file. 
