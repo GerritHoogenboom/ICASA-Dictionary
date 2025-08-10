@@ -198,7 +198,7 @@
 "irrigation_season","IR_TOT","IR_TOT",21,,"Irrigation, total amount over season","mm","single","EXPERIMENT","MANAGEMENT","IRRIGATIONS",,2071,"Use when detailed irrigation information is lacking",,,,0,,296
 "irrigation_applics_season","IR_#","IR_no",22,,"Irrigation applications, total number at end season","number","single","EXPERIMENT","MANAGEMENT","IRRIGATIONS",,2071,"Use when detailed irrigation information is lacking",".",,,,,297
 "irrigation_level","IR","IR",1,,"Irrigation level, links to IRRIGATIONS table","number","single","EXPERIMENT","MANAGEMENT","IRRIGATIONS","IRRIGATION_APPLICATIONS",2072,,".",,2751,,,298
-"irrigation_date","IDATE","IDATE",-99,,"Irrigation date","date","single","EXPERIMENT","MANAGEMENT","IRRIGATIONS","IRRIGATION_APPLICATIONS",2072,,"IDATE","IRRIGATION AND WATER MANAGEMENT",2752,1,99365,299
+"irrigation_date","IDATE","IDATE",2,,"Irrigation date","date","single","EXPERIMENT","MANAGEMENT","IRRIGATIONS","IRRIGATION_APPLICATIONS",2072,,"IDATE","IRRIGATION AND WATER MANAGEMENT",2752,1,99365,299
 "irrigation_year","IRYR","IRYR",2,1,"Irrigation or water management year","year","single","EXPERIMENT","MANAGEMENT","IRRIGATIONS","IRRIGATION_APPLICATIONS",2072,,,,,,,300
 "irrigation_day","IRDAY","IRDAY",3,1,"Irrigation day","day","single","EXPERIMENT","MANAGEMENT","IRRIGATIONS","IRRIGATION_APPLICATIONS",2072,,".",,,0,366,301
 "irrigation_operation","IROP","IROP",4,,"Irrigation operation (e.g., furrow, sprinkler, drip…)","code","text","EXPERIMENT","MANAGEMENT","IRRIGATIONS","IRRIGATION_APPLICATIONS",2072,,"IROP","IRRIGATION AND WATER MANAGEMENT",2753,,,302
